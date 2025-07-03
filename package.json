@@ -1,0 +1,23 @@
+{
+  "name": "bandhan",
+  "version": "1.0.0",
+  "description": "Get your partner",
+  "homepage": "https://github.com/mbhiman/Bandhan.com#readme",
+  "bugs": {
+    "url": "https://github.com/mbhiman/Bandhan.com/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbhiman/Bandhan.com.git"
+  },
+  "license": "ISC",
+  "author": "Bhiman Singha",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
