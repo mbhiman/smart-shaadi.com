@@ -1,14 +1,14 @@
 {
-  "name": "bandhan",
+  "name": "smart-shaadi.com",
   "version": "1.0.0",
   "description": "Get your partner",
-  "homepage": "https://github.com/mbhiman/Bandhan.com#readme",
+  "homepage": "https://github.com/mbhiman/smart-shaadi.com#readme",
   "bugs": {
-    "url": "https://github.com/mbhiman/Bandhan.com/issues"
+    "url": "https://github.com/mbhiman/smart-shaadi.com/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mbhiman/Bandhan.com.git"
+    "url": "git+https://github.com/mbhiman/smart-shaadi.com.git"
   },
   "license": "ISC",
   "author": "Bhiman Singha",
