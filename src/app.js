@@ -74,8 +74,8 @@ app.get('/feed', async (req, res) => {
 app.delete('/user', async (req, res) => {
 
     try {
-        const userID = req.body.userID;
-        const user = await User.findByIdAndDelete({ _id: userID });
+        const userID = req.body._id;
+        const user = await User.findByIdAndDelete(userID);
         console.log(user);
         return res.status(200).json({ success: true, message: "User deleted successfully" });
 
